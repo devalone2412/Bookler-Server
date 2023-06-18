@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uJXvmah6Y3ThxAKvBgHD5vxjpyCkz8XjBJceA4qVEes=",
+  "Source": "Bookler-Server",
+  "BasePath": "_content/Bookler-Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
